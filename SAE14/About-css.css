@@ -107,7 +107,6 @@ footer{
 }
 .aside1 img{
 	width: 100%;
-	display:flex;
     border-style: solid;
     border-color: lightgreen;
 }
